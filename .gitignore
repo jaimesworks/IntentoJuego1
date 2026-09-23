@@ -1,0 +1,17 @@
+# Godot 4+ archivos de importación y caché
+.godot/
+
+# Godot 3 (por si usáis versión anterior)
+.import/
+export.cfg
+export_presets.cfg
+
+# Archivos de exportación de ejecutables
+*.translation
+*.pck
+*.apk
+
+# Mono / C# (si usáis C# en lugar de GDScript)
+.mono/
+*.csproj
+*.sln
